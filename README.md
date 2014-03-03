@@ -2,6 +2,8 @@
 
 ## Raccourcis
 * ``Ctrl``+``Shift``+``P`` : Interface de commandes
+* ``Ctrl``+``P`` : Recherche un fichier, +``@`` pour rechercher une méthode (on peut combiner les 2)
+* ``Ctrl``+``PageUp``ou``PageDown`` : Se déplacer dans les onglets
 
 ## Plugins 
 
